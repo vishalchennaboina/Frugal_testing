@@ -1,0 +1,15 @@
+===== QUIZ AUTOMATION STARTED =====
+Loaded Quiz Page
+Page Title: Dynamic Quiz App — JavaScript Only
+Page URL: file:///C:/Users/vch44/IdeaProjects/Chennaboina.vishal_ParulUniversity_2203031240260/quiz.html
+Quiz Started — Question 1 displayed
+Answering Question 1
+Answering Question 2
+Answering Question 3
+Answering Question 4
+Answering Question 5
+Quiz Submitted. Results displayed.
+Score shown: 2 / 5
+Correct answers: 2
+Wrong answers: 3
+===== QUIZ AUTOMATION COMPLETED SUCCESSFULLY =====
